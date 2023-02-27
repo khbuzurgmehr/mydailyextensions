@@ -1,8 +1,9 @@
 {
   "name": "mydailyextensions",
   "displayName": "mydailyextensions",
-  "description": "",
+  "description": "these extensions are for mydailyextensions and i recommend for you",
   "version": "0.0.1",
+  "icon": "./images/my-photo.jpg",
   "engines": {
     "vscode": "^1.75.0"
   },
